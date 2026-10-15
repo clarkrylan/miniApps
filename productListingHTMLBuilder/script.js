@@ -238,6 +238,11 @@ const approvedSnippets = [
     label: "Snow Days",
     html: `<div id="snowDays26"></div>`,
   },
+  {
+    id: "safeArrivalGuarantee",
+    label: "Safe Arrival Guarantee",
+    html: `<div id="safeArrivalGuarantee"></div>`,
+  },
 ];
 
 const approvedSnippetDivIds = [
